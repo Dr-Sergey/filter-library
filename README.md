@@ -1,2 +1,2 @@
 # filter-library
-Bunch of filters routines
+Filter library for digital dignal processing
