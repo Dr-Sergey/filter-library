@@ -21,9 +21,12 @@ With python 3.7, matplotlib, numpy, scipy installed.
     python iir1_lab.py
 
 As a result, appears iir1 filter responses for sinusoidal and meander signals:
+
 ![fig1](images/fig1.png)
+
 ![fig2](images/fig2.png)
 
 and frequency response:
+
 ![fig3](images/fig3.png)
 
