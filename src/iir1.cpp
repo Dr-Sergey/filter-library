@@ -1,5 +1,5 @@
 #include <math.h>
-#include "iir1.h"
+#include "iir1.hpp"
 
 //------------------------------------------------------------------------------------------------
 IIR1_LowPass::IIR1_LowPass(float decay): m_decay(decay), yn1(0)

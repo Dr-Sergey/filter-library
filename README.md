@@ -1,2 +1,2 @@
 # filter-library
-Filter library for digital dignal processing
+Filter library for digital signal processing
